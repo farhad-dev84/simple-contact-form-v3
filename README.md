@@ -17,7 +17,7 @@
 
 ## 🖼 Preview - پیش‌نمایش
 
-![Preview](./v3/screenshot-simple-contact-form-v3.png)
+![Preview](/v3/screenshot-simple-contact-form-v3.png)
 
 ---
 
